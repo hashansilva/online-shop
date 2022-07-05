@@ -9,6 +9,7 @@ import { products } from '../products';
 })
 export class ProductListComponent {
   products = products;
+  
 
   public onShare() {
     alert('The product has been shared!');
