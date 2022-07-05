@@ -14,10 +14,13 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.1.0-next",
+    "@angular/cdk": "14.0.4",
     "@angular/common": "^14.1.0-next",
     "@angular/compiler": "^14.1.0-next",
     "@angular/core": "^14.1.0-next",
+    "@angular/flex-layout": "^14.0.0-beta.40",
     "@angular/forms": "^14.1.0-next",
+    "@angular/material": "14.0.4",
     "@angular/platform-browser": "^14.1.0-next",
     "@angular/platform-browser-dynamic": "^14.1.0-next",
     "@angular/router": "^14.1.0-next",
